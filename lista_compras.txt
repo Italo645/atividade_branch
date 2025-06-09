@@ -1,1 +1,4 @@
-arroz, feijao, batata, cenoura
+arroz
+feijao
+batata
+cenoura
