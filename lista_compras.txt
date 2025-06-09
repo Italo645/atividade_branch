@@ -7,3 +7,7 @@ cenoura
 beterraba 
 açucar
 doce de leite
+leite 
+carne
+frango
+papel higienico
